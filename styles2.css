@@ -1,0 +1,30 @@
+.body {
+    text-align: center;
+    background-color:peachpuff;
+}
+.input {
+    margin-top: 80px;
+}
+.label {
+    font-size: 24px;
+}
+#pt {
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    background-color: lightcyan;
+}
+#btn {
+    margin-top: 100px;
+    height: 75px;
+width: 80px;
+    border-radius: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    font-style: oblique;
+}
+#output {
+    font-size: 30px;
+    color: whitesmoke;
+}
